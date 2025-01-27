@@ -1,5 +1,5 @@
 // Library for automatic generation of telegram bot api implementation for rust.
-// Copyright (C) 2025  Andrew Kozmin
+// Copyright (C) 2025  Andrew Kozmin <syn.kolbasyn.06@gmail.com>
 // 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published
