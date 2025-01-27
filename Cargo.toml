@@ -1,0 +1,13 @@
+[package]
+name = "tg_bot_api"
+authors = ["Andrew Kozmin <syn.kolbasyn.06@gmail.com>"]
+version = "0.1.0"
+description = "Library for automatic generation of telegram bot api implementation for rust."
+edition = "2021"
+license = "AGPL-3.0-or-later"
+
+[dependencies]
+anyhow = "1.0.95"
+reqwest = { version = "0.12.12", features = ["json"] }
+serde = { version = "1.0.217", features = ["derive"] }
+tokio = { version = "1.43.0", features = ["full"] }
